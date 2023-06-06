@@ -1,7 +1,7 @@
 # SCM_MOFC
 This repository holds the python files used in the research that contributed to Kaitlyn Rakestraw's MIT Supply Chain Management 2023 Capstone "Predicting Food Bank Demand: A Socioeconomic Analysis and Forecasting Model Investigation".
 
-##Summary: 
+## Summary: 
 This research evaluated the demand for food bank services from the Mid-Ohio Food Collective
 (MOFC), highlighting how demand varied based on the socioeconomic vulnerability of counties. A framework was
 created to cluster counties as "more vulnerable" or "less vulnerable", and forecasting models were tested on
