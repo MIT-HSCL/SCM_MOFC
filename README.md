@@ -10,3 +10,11 @@ the more vulnerable regions, but an exponential smoothing model with level and t
 improved forecast accuracy for the less vulnerable regions. The insights from this study are applicable to all
 United States counties, providing a valuable tool for food banks across the country to enhance their demand
 forecast accuracy.
+
+### Executive Summary
+[Rakestraw Executive Summary](https://github.com/MIT-HSCL/SCM_MOFC/blob/main/Rakestraw%20Executive%20Summary_final.pdf)
+Three page overview of the research conducted in cooperations with the Mid-Ohio Food Collective.
+
+### Capstone
+[Predicting Food Bank Demand: A Socioeconomic Analysis and Forecasting Model Investigation](https://github.com/MIT-HSCL/SCM_MOFC/blob/main/Rakestraw_Capstone_Final.pdf)
+Full capstone submitted to the program in Supply Chain Management in partial fulfullment of the requiremsnt for the dgree of master of Applied Scinece in Supply Chain Management at the Massachusetts Institute of Thechnology (May 2023).
