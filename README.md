@@ -20,6 +20,6 @@ Three page overview of the research conducted in cooperations with the Mid-Ohio 
 Full capstone submitted to the program in Supply Chain Management in partial fulfullment of the requiremsnt for the dgree of master of Applied Scinece in Supply Chain Management at the Massachusetts Institute of Thechnology (May 2023).
 
 ### Python Notebooks
-[Exponential Smoothing Code](https://github.com/MIT-HSCL/SCM_MOFC#:~:text=Exp_Smoothing_Code_Update.ipynb)
+[Exponential Smoothing Code](https://github.com/MIT-HSCL/SCM_MOFC/blob/main/Exp_Smoothing_Code_Update.ipynb)
 
-[Full Model Testing Code](https://github.com/MIT-HSCL/SCM_MOFC#:~:text=Full_Model_Testing_Code.ipynb)
+[Full Model Testing Code](https://github.com/MIT-HSCL/SCM_MOFC/blob/main/Full_Model_Testing_Code.ipynb)
