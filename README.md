@@ -21,4 +21,5 @@ Full capstone submitted to the program in Supply Chain Management in partial ful
 
 ### Python Notebooks
 [Exponential Smoothing Code](https://github.com/MIT-HSCL/SCM_MOFC#:~:text=Exp_Smoothing_Code_Update.ipynb)
+
 [Full Model Testing Code](https://github.com/MIT-HSCL/SCM_MOFC#:~:text=Full_Model_Testing_Code.ipynb)
